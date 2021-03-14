@@ -1,3 +1,7 @@
+# Sendsay API Console
+
+The Sendsay API Console provides a web interface for requests to the Sendsay API.
+
 ## О проекте
 Тестовое задание Sendsay. API-консоль состоит из формы авторизации и интерфейса консоли. Она используется, чтобы выполнять запросы к Sendsay API.
 
